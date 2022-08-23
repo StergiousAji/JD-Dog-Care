@@ -1,0 +1,50 @@
+@startuml
+' hide the spot
+hide circle
+hide members
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+header JD Dog Care
+footer Stergious
+
+title Grooming ER Diagram
+
+entity "Client" {
+  *ClientID : number <<pk>>
+  --
+  ClientName : text
+  DogName : text
+  Address : text
+  Job : text
+  TelNo : text
+  DateJoined : date
+}
+
+entity "Booking" {
+  *BookingNo : number <<pk>>
+  *ServiceOption : number <<pk>>
+  *ClientID : number <<fk>>
+  *AppointmentNo : number <<fk>>
+  --
+  NoOfBookings : number
+  Price : number
+  PaidInAdvance : boolean
+}
+
+entity "Appointment" {
+  *AppointmentNo : number <<pk>>
+  *BookingNo : number <<fk>>
+  *ClientID : number <<fk>>
+  *ServiceOption : number <<fk>>
+  --
+  DogName : text
+  Location : text
+  LengthOfBooking : number
+  DateAndTime : date
+}
+
+Client "1" --{ "M" T_Log : ClientID
+
+@enduml

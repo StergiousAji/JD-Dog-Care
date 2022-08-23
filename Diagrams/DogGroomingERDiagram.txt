@@ -1,0 +1,109 @@
+@startuml
+' hide the spot
+hide circle
+
+' avoid problems with angled crows feet
+skinparam linetype ortho
+
+header JD Dog Care
+footer Stergious Aji 4211
+
+title Dog Grooming ER Diagram
+
+entity "Client" {
+  *ClientID : text <<pk>>
+  --
+  Forename : text
+  Surname : text
+  Sex : text
+  DateOfBirth : date
+  Address : text
+  City : text
+  Postcode : text
+  Email : text
+  PhoneNo : text
+  DateJoined : date
+}
+
+entity "Dog" {
+  *DogID : text <<pk>>
+  *ClientID : text <<fk>>
+  --
+  DogName : text
+  Breed : text
+  Sex : text
+  DateOfBirth : date
+  MedicalNotes : text
+}
+
+entity "Vaccination" {
+  *VaccinationNo : text <<pk>>
+  --
+  VacciantionName : text
+}
+
+entity "Dog_Vaccination" {
+  *DogID : text <<fk>>
+  *VaccinationNo : text <<fk>>
+  --
+  VaccinationDate : date
+}
+
+entity "Staff" {
+  *StaffID : number <<pk>>
+  --
+  Forename : text
+  Surname : text
+  Sex : text
+  DateOfBirth : date
+  Address : text
+  City : text
+  Postcode : text
+  Email : text
+  PhoneNo : text
+  JobContract : text
+  JobPosition : text
+  Salary : number
+  DateJoined : date
+}
+
+entity "Options" {
+  *ServiceOptionNo : text <<pk>>
+  --
+  ServiceOptionDescription : text
+  Duration : time
+  Price : number
+}
+
+entity "Booking" {
+  *BookingNo : text <<pk>>
+  *DogID : text <<fk>>
+  *ServiceOptionNo : text <<fk>>
+  *StaffID : text <<fk>>
+  --
+  AppointmentDate : date
+  StartTime : time
+  ExtraOption : boolean
+  DateCreated : date
+}
+
+entity "Payment" {
+  *PaymentNo : text <<pk>>
+  *BookingNo : text <<fk>>
+  --
+  PaymentDate : date
+  AmountDue : number
+  PaymentMethod : text
+  CardNumber : text
+  SecurityCode : text
+  Paid : boolean
+}
+
+Client "1" --{ "M" Dog : ClientID
+Dog "1" --{ "M" Dog_Vaccination : DogID
+Vaccination "1" --{ Dog_Vaccination : VaccinationNo
+Dog "1" --{ "M" Booking : DogID
+Options "1" --{ "M" Booking : ServiceOptionNo
+Staff "1" --{ "M" Booking : StaffID
+Booking "1" --{ "1" Payment : BookingNo
+@enduml

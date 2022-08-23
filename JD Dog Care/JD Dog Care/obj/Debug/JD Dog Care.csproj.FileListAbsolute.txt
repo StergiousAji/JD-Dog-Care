@@ -1,0 +1,283 @@
+C:\Users\DevUser\Desktop\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe.config
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe.config
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.pdb
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csprojResolveAssemblyReference.cache
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.FrmJDDogCare.resources
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.Properties.Resources.resources
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcClientRegistration.resources
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDogRegistration.resources
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.GenerateResource.Cache
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.exe
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.pdb
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe.config
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.pdb
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.FrmJDDogCare.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.Properties.Resources.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.GenerateResource.cache
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.exe
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.pdb
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe.config
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.exe
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.pdb
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcRegistrationBar.resources
+Z:\SSD\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcStaffRegistration.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.pdb
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csprojResolveAssemblyReference.cache
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.FrmJDDogCare.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.Properties.Resources.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.GenerateResource.Cache
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcReports.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcReports.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\RdlCompile.cache
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\RdlCompile.compiled
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\stdole.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.CopyComplete
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\stdole.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE80.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj80.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.MSXML.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.Build.Framework.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj2.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.JD Dog Care.exe.config
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcClient.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDog.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcToolBar.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcStaff.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcClient.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDog.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcToolBar.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcStaff.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcBooking.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Newtonsoft.Json.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcBooking.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE.xml
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE80.xml
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj.xml
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj80.xml
+D:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\VSLangProj2.xml
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcPayment.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcPayment.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDogVaccinationHistory.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDogVaccinationHistory.resources
+D:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcHome.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe.config
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.exe
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\JD Dog Care.pdb
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\EnvDTE.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\stdole.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\Microsoft.MSXML.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csprojAssemblyReference.cache
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.FrmJDDogCare.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.Properties.Resources.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcBooking.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcClient.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDog.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcDogVaccinationHistory.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcHome.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcPayment.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcToolBar.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcReports.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcStaff.resources
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.GenerateResource.cache
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\RdlCompile.cache
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\RdlCompile.compiled
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.CopyComplete
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.exe
+E:\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.pdb
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcHome.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcServiceOption.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD_Dog_Care.UcVaccination.resources
+C:\Users\Jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.CoreCompileInputs.cache
+C:\Users\jovin\Documents\My Project (A2)\JD Dog Care\JD Dog Care\obj\Debug\JD Dog Care.csproj.AssemblyReference.cache

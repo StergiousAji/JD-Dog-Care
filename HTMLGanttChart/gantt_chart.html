@@ -1,0 +1,59 @@
+
+<html>
+<head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load('current', {'packages':['gantt']});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function toMilliseconds(minutes) {
+      return minutes * 60 * 1000;
+    }
+
+    function daysToMilliseconds(days) {
+      return days * 24 * 60 * 60 * 1000;
+    }
+
+    function drawChart() {
+
+      var chartData = new google.visualization.DataTable();
+      chartData.addColumn('string', 'Task ID');
+      chartData.addColumn('string', 'Task Name');
+      chartData.addColumn('string', 'Resource');
+      chartData.addColumn('date', 'Start');
+      chartData.addColumn('date', 'End');
+      chartData.addColumn('number', 'Duration');
+      chartData.addColumn('number', 'Percent Complete');
+      chartData.addColumn('string', 'Dependencies');
+chartData.addRows([['Analysis','Analysis','Analysis',new Date(2019,9,18),null,daysToMilliseconds(20),15,null],
+['Design','Design','Design',null,null,daysToMilliseconds(25),0,'Analysis'],
+['Development','Development','Development',null,null,daysToMilliseconds(25),0,'Design'],
+['Testing','Testing','Testing',null,null,daysToMilliseconds(14),0,'Development'],
+['UserGuide','User Guide','User Guide',null,null,daysToMilliseconds(14),0,'Testing'],
+]);
+
+      var options = {
+        height:800 
+      };
+
+      var chart = new google.visualization.Gantt(document.getElementById('chart_div'));
+
+      chart.draw(chartData, options);
+    }
+  </script>
+</head>
+<body>
+<img src="lcc_logo.png"/>
+<h1>Candidate Number: 4211</h1>
+<h2>JD Dog Care</h2>
+<h3>Project Planning</h3>
+<table style="border: 1px solid black;">
+<tr><th>Date</th><th>Version</th></tr>
+<tr><td>06/11/2019</th><th>1.0</th></tr>
+</table>
+<br/>
+  <div id="chart_div"></div>
+<hr/>
+<a href="https://developers.google.com/chart/interactive/docs/gallery/ganttchart">Customise this chart using HTML/JS</a>
+</body>
+</html>

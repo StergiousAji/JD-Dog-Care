@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0054AA35-DD71-4637-B085-CDCC6E820A5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JD_Dog_Care</RootNamespace>
+    <AssemblyName>JD Dog Care</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Booking.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="ConnectionString.cs" />
+    <Compile Include="CustomException.cs" />
+    <Compile Include="Dog.cs" />
+    <Compile Include="FrmJDDogCare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJDDogCare.Designer.cs">
+      <DependentUpon>FrmJDDogCare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JD_Dog_CareDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JD_Dog_CareDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Option.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Staff.cs" />
+    <Compile Include="UcBooking.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcBooking.Designer.cs">
+      <DependentUpon>UcBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcClient.Designer.cs">
+      <DependentUpon>UcClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcDog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcDog.Designer.cs">
+      <DependentUpon>UcDog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcDogVaccinationHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcDogVaccinationHistory.Designer.cs">
+      <DependentUpon>UcDogVaccinationHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcHome.Designer.cs">
+      <DependentUpon>UcHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcPayment.Designer.cs">
+      <DependentUpon>UcPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcServiceOption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcServiceOption.Designer.cs">
+      <DependentUpon>UcServiceOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcToolBar.Designer.cs">
+      <DependentUpon>UcToolBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcReports.Designer.cs">
+      <DependentUpon>UcReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcStaff.Designer.cs">
+      <DependentUpon>UcStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcVaccination.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcVaccination.Designer.cs">
+      <DependentUpon>UcVaccination.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmJDDogCare.resx">
+      <DependentUpon>FrmJDDogCare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="UcBooking.resx">
+      <DependentUpon>UcBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcClient.resx">
+      <DependentUpon>UcClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcDog.resx">
+      <DependentUpon>UcDog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcDogVaccinationHistory.resx">
+      <DependentUpon>UcDogVaccinationHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcHome.resx">
+      <DependentUpon>UcHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcPayment.resx">
+      <DependentUpon>UcPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcServiceOption.resx">
+      <DependentUpon>UcServiceOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcToolBar.resx">
+      <DependentUpon>UcToolBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcReports.resx">
+      <DependentUpon>UcReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcStaff.resx">
+      <DependentUpon>UcStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcVaccination.resx">
+      <DependentUpon>UcVaccination.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="JD_Dog_CareDataSet.xsc">
+      <DependentUpon>JD_Dog_CareDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JD_Dog_CareDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JD_Dog_CareDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JD_Dog_CareDataSet.xss">
+      <DependentUpon>JD_Dog_CareDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JDDogCare_Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Validation Icons\Error.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Validation Icons\Tick.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdminSettings_Symbol.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

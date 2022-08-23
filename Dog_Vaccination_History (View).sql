@@ -1,0 +1,2 @@
+CREATE VIEW DogVaccinationHistory 
+AS SELECT V.VaccinationNo, D.DogID, D.DogName, V.VaccinationName, DV.VaccinationDate FROM Dog D JOIN Dog_Vaccination DV ON D.DogID = DV.DogID JOIN Vaccination V ON V.VaccinationNo = DV.VaccinationNo
